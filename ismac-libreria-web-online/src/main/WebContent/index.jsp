@@ -4,9 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Sistema libreria</title>
+<link rel="stylesheet" href="${pageContext.request.contextPath }/resources/css/estilos1.css")/>
 </head>
 <body>
- <h1>Hola mundo</h1>
+ <h1>HOLA MUNDO DESDE JSP</h1>
 </body>
 </html>
